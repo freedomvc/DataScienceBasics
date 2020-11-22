@@ -1,0 +1,13 @@
+{
+	"FrontDoorLight": {
+		"on": true,
+		"bri": 254,
+		"hue": 8418,
+		"sat": 130.50,
+		"effect": "none",
+		"xy": [
+			0.4573,
+			0.41
+		]
+	}
+}
